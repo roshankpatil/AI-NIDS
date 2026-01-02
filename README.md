@@ -178,7 +178,7 @@ http://localhost:8501
 
 Name: Roshan Patil
 
-Project Type: Final Year Academic Project
+Project Type: VOIS AICTE Intership Project
 
 Domain: Cyber Security & Machine Learning
 
